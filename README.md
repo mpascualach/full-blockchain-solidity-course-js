@@ -845,9 +845,11 @@ Backup Faucet:<a href="https://sepoliafaucet.com/" target="_blank"> https://sepo
    2. Use [Markdown](https://www.markdowntutorial.com/)
 
 ### How to Debug Anything Video
+*[⌨️ (5:41:53) How to Debug Anything Video](https://youtu.be/gyMwXuJrbJQ?t=20513)*
 - [Patrick's Original Video](https://www.youtube.com/watch?v=XT8STflvwNo)
 
 ## Installation & Setup
+*[⌨️ (5:53:47) Installation & Setup](https://youtu.be/gyMwXuJrbJQ?t=21227)*
 -   [Visual Studio Code](https://code.visualstudio.com/)
     - [Crash Course](https://www.youtube.com/watch?v=WPqXP_kLzpo)
 - [NodeJS](https://nodejs.org/en/)
@@ -865,11 +867,13 @@ Backup Faucet:<a href="https://sepoliafaucet.com/" target="_blank"> https://sepo
 
 > ⚠️ Please use Gitpod as an absolute last resort
 ### Gitpod
+*[⌨️ (6:12:49) Gitpod](https://youtu.be/gyMwXuJrbJQ?t=22369)*
 - [Gitpod](https://www.gitpod.io/)
   - **If using this, NEVER share a private key with real money on Gitpod**
   - Ideally you figure out the MacOS, Linux, or Windows install though
 
 ## Local Development Introduction
+*[⌨️ (6:17:00) Local Development Introduction](https://youtu.be/gyMwXuJrbJQ?t=22620)*
 - `CMD + K` or `CTRL + K` clears the terminal
 - `mkdir ethers-simple-storage-fcc`
 - `code .` to open VSCode in a new VSCode window
@@ -891,51 +895,66 @@ Backup Faucet:<a href="https://sepoliafaucet.com/" target="_blank"> https://sepo
 In your `.vscode/settings.json` file.
 - [Prettier Extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 ## Tiny Javascript Refresher
+*[⌨️ (6:34:06) Tiny Javascript Refresher](https://youtu.be/gyMwXuJrbJQ?t=23646)*
 - [Javascript Tips](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
 ## Asynchronous Programming in Javascript
+*[⌨️ (5:41:53) How to Debug Anything Video](https://youtu.be/gyMwXuJrbJQ?t=20513)*
 - [Asynchronous Programming](https://www.bmc.com/blogs/asynchronous-programming/)
 - [async keyword](https://www.w3schools.com/JS//js_async.asp)
 - [Promise in Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 - [await keyword](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await)
 ## Compiling our Solidity
+*[⌨️ (5:41:53) How to Debug Anything Video](https://youtu.be/gyMwXuJrbJQ?t=20513)*
 - [Yarn Install](https://yarnpkg.com/getting-started/install)
 - [solc-js](https://github.com/ethereum/solc-js)
   - `yarn add solc@0.8.7-fixed`
 - [yarn scripts](https://classic.yarnpkg.com/lang/en/docs/cli/run/)
 ## Ganache & Networks
+*[⌨️ (5:41:53) How to Debug Anything Video](https://youtu.be/gyMwXuJrbJQ?t=20513)*
 - [Ganache](https://trufflesuite.com/ganache/)
 - Networks in Metamask
 - RPC URL
 - [Geth](https://github.com/ethereum/go-ethereum)
 - [JSON RPC Spec Playground](https://playground.open-rpc.org/?schemaUrl=https://raw.githubusercontent.com/ethereum/execution-apis/assembled-spec/openrpc.json&uiSchema%5BappBar%5D%5Bui:splitView%5D=false&uiSchema%5BappBar%5D%5Bui:input%5D=false&uiSchema%5BappBar%5D%5Bui:examplesDropdown%5D=false)
 ## Introduction to Ethers.js
+*[⌨️ (5:41:53) How to Debug Anything Video](https://youtu.be/gyMwXuJrbJQ?t=20513)*
 - [Ethers.js](https://docs.ethers.io/v5/getting-started/)
 - [prettier-plugin-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity)
 ### A Note on the await Keyword
+*[⌨️ (5:41:53) How to Debug Anything Video](https://youtu.be/gyMwXuJrbJQ?t=20513)*
 ## Adding Transaction Overrides
+*[⌨️ (5:41:53) How to Debug Anything Video](https://youtu.be/gyMwXuJrbJQ?t=20513)*
 ## Transaction Receipts
+*[⌨️ (5:41:53) How to Debug Anything Video](https://youtu.be/gyMwXuJrbJQ?t=20513)*
 ## Sending a "raw" Transaction in Ethers.js
+*[⌨️ (5:41:53) How to Debug Anything Video](https://youtu.be/gyMwXuJrbJQ?t=20513)*
 ## Interacting with Contracts in Ethers.js
+*[⌨️ (5:41:53) How to Debug Anything Video](https://youtu.be/gyMwXuJrbJQ?t=20513)*
 - [EVM Decompiler](https://ethervm.io/decompile)
 - [BigNumber](https://docs.ethers.io/v5/api/utils/bignumber/)
 ## Environment Variables
+*[⌨️ (5:41:53) How to Debug Anything Video](https://youtu.be/gyMwXuJrbJQ?t=20513)*
 - [dotenv](https://www.npmjs.com/package/dotenv)
 - [.gitignore](https://www.atlassian.com/git/tutorials/saving-changes/gitignore)
 ## Better Private Key Management
 - [wallet.encrypt](https://docs.ethers.io/v5/api/signer/#Wallet-encrypt)
 - [THE .ENV PLEDGE](https://github.com/smartcontractkit/full-blockchain-solidity-course-js/discussions/5)
 ## Optional Prettier Formatting
+*[⌨️ (5:41:53) How to Debug Anything Video](https://youtu.be/gyMwXuJrbJQ?t=20513)*
 - [Prettier](https://prettier.io/docs/en/index.html)
 - [Best README Template](https://github.com/othneildrew/Best-README-Template)
 ## Deploying to a Testnet or a Mainnet
+*[⌨️ (5:41:53) How to Debug Anything Video](https://youtu.be/gyMwXuJrbJQ?t=20513)*
 - [Alchemy](https://alchemy.com/?a=673c802981)
 - [Getting your private key from Metamask](https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key)
 - `CTRL + C` stops any terminal command
 ## Verifying on Block Explorers from the UI
+*[⌨️ (5:41:53) How to Debug Anything Video](https://youtu.be/gyMwXuJrbJQ?t=20513)*
 ## Alchemy Dashboard & The Mempool
 - [Special Guest Albert Hu](https://twitter.com/thatguyintech)
 - [Mempool](https://ethereum.org/en/developers/tutorials/sending-transactions-using-web3-and-alchemy/#see-your-transaction-in-the-mempool)
 ## Lesson 5 Recap
+*[⌨️ (5:41:53) How to Debug Anything Video](https://youtu.be/gyMwXuJrbJQ?t=20513)*
 ### Typescript Ethers Simple Storage
 
 # Lesson 6: Hardhat Simple Storage
